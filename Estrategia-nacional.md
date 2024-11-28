@@ -328,11 +328,7 @@ Construyendo las bases de la ciencia abierta en la Pontificia Universidad Catól
 
 En el año 2021 la Universidad Católica de Chile, se adjudicó la ejecución del proyecto "Construyendo las bases de la ciencia abierta en la Pontificia Universidad Católica de Chile”, financiado por ANID. Este proyecto tuvo por objetivo instalar y/o fortalecer capacidades en materia de gestión abierta de publicaciones y datos científicos en la UC. En concreto, se buscó desarrollar un ecosistema institucional de ciencia abierta, que consideraba los modelos de operación, la participación de las personas, la publicación de los productos de la investigación, la gestión de los datos y la instalación de una infraestructura tecnológica estandarizada, abierta, independiente e interoperable con servicios y aplicaciones de acuerdo a las políticas de acceso abierto de ANID y estándares internacionales. El proyecto abordó cuatro pilares: Gobernanza y políticas, Infraestructura y Servicios, Entrenamiento y Capacitación y Difusión y Redes. Entre los documentos generados, podemos mencionar: Lineamientos sobre las políticas de interoperabilidad entre sistemas y proyectos, Lineamientos para la difusión y formación continua en el ámbito de la Ciencia Abierta, Lineamientos para la aplicación de licencias Creative Commons a los resultados de investigación y finalmente los Lineamientos sobre Política de Preservación Digital de la UC. \[24\]
 
-## 8. Sobre este documento
-
-### Versión 1.0. Esperando el review externo
-
-## 9. Bibliografía
+## 8. Bibliografía
 
 ---
 
