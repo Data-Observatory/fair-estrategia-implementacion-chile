@@ -1,5 +1,7 @@
 # fair-estrategia-implementacion-chile
 
+![License](https://img.shields.io/github/license/Data-Observatory/fair-estrategia-implementacion-chile)
+
 Repositorio que alberga la "Propuesta de Estrategia para la Implementación de una Política de Datos FAIR en Chile" en formato texto plano, para facilitar su acceso y análisis.
 
 Esta propuesta se encuentra actualmente en borrador y aún no es su versión definitiva.
