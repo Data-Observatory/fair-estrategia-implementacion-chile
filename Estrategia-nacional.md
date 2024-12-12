@@ -72,7 +72,7 @@ El Gobierno de Chile, a través de esta iniciativa, busca promover un entorno de
 
 El portal [datos.gob.cl](https://datos.gob.cl/) es un repositorio centralizado de datos de las instituciones públicas, cuyo propósito es poner a disposición de diferentes actores datos generados con presupuesto público y en formatos abiertos, para libre consumo de los interesados. Los datos se pueden obtener  descargándolos desde la plataforma o accediendo directamente desde la API que genera datos.gob.cl. Esto permite la generación de valor como visualizaciones, aplicaciones, estudios, investigaciones y servicios, entre otros. Esta iniciativa proporciona un punto centralizado de acceso a datos gubernamentales, facilitando su descubrimiento, acceso, interoperabilidad y reutilización por parte de la comunidad.
 
-## Instituto Milenio Fundamentos de los Datos
+### Instituto Milenio Fundamentos de los Datos
 
 El [Instituto Milenio Fundamentos de los Datos](https://imfd.cl/) es una iniciativa conjunta de la Pontificia Universidad Católica y la Universidad de Chile, en la que colaboran, además, académicos de la Universidad Técnica Federico Santa María, Universidad de Concepción, Universidad de Talca y Universidad Diego Portales. Este proyecto busca abordar al dato en todas sus dimensiones, desde su origen, como una compleja unidad informática, pasando por el estudio de sistemas de almacenamiento, seguridad, disponibilidad y nuevos lenguajes de consulta, hasta su uso e impacto social.
 
