@@ -427,4 +427,4 @@ Este trabajo fue apoyado en parte por los premios \#1916481 y 1937953 de la Fund
 
 Cita recomendada: Kirkpatrick, Christine R.; Cragin, Melissa H.; Meyers, Natalie. (2024). (traducción y adaptación, Carrasco, R.; Díaz, I.; Escapil-Inchauspé P.; Hartley R.; Keim, A.; Koebl M.; Meyers, N.; Quiroz, S.; Paredes, Á.; Rivera, M.; Roa, R.) *FAIR Data Stewardship Plan Template for Organizations and Institutions*. In *SDSC Research Data Services Materials Collection*. \[Documento guía para el Plan de Gestión de Datos FAIR para Organizaciones e Instituciones. En la Colección de Materiales de los Servicios de Datos de Investigación de SDSC\]. UC San Diego Library Digital Collections. (Original Work [https://doi.org/10.6075/J0CV4G8C](https://doi.org/10.6075/J0CV4G8C) published 2021).
 
-Licencia: [Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
+Licencia: [Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
