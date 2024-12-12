@@ -15,7 +15,7 @@ Los autores, que contribuyeron con la traducción y adaptación del texto son (e
 - Paul Escapil-Inchauspé
 - Ricardo Hartley Belmar
 - Ana Keim Cortez
-- Max Kölbl Fischer
+- Max Koelbl Fischer
 - Natalie Meyers
 - Soledad Quiroz Valenzuela
 - Álvaro Paredes Lizama
