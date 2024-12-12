@@ -1,6 +1,6 @@
 # Propuesta de Estrategia para la Implementación de una Política de Datos FAIR en Chile [BORRADOR]
 
-[![DOI](https://img.shields.io/badge/DOI-10.71481/7xpj-cv52.svg)](https://doi.org/10.71481/7xpj-cv52.svg) [![CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![DOI](https://img.shields.io/badge/DOI-10.71481/7xpj.cv52-cv52.svg)](https://doi.org/10.71481/7xpj-cv52) [![CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Repositorio que alberga la "Propuesta de Estrategia para la Implementación de una Política de Datos FAIR en Chile" en formato texto plano, para facilitar su acceso y análisis.
 
