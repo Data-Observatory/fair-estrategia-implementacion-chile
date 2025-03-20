@@ -1,7 +1,6 @@
-# Propuesta de Estrategia para la Implementación de una Política de Datos FAIR en Chile [BORRADOR]
+# Estrategia para la Implementación de una Política de Datos FAIR en Chile
 
-Propuesta de Estrategia para la Implementación de una Política de Datos FAIR en Chile
-Primera Edición: Diciembre de 2024
+Segunda Edición: Marzo de 2025
 
 **Desarrollado por:**
 
@@ -15,13 +14,11 @@ Primera Edición: Diciembre de 2024
 **Colaboradores y revisores**
 Kirkpatrick, Christine R.; Cragin, Melissa H.; Meyers, >Natalie.
 
-Este documento ha sido basado en la guía “FAIR Data Stewardship Plan Template for Organizations and Institutions”, de la Colección de Materiales de los Servicios de Datos de Investigación de SDSC, UC San Diego Library Digital Collections (2021). https://doi.org/10.6075/J0CV4G8C
+Este documento ha sido basado en la guía "FAIR Data Stewardship Plan Template for Organizations and Institutions", de la Colección de Materiales de los Servicios de Datos de Investigación de SDSC, UC San Diego Library Digital Collections (2021). https://doi.org/10.6075/J0CV4G8C
 
-Además, se han generado a la fecha los siguientes documentos relacionados: Meyers, N., Escapil-Inchauspé, P., Egaña Aranguren, M., & Hartley Belmar, Ricardo (2024). Principios FAIR (material de taller de dos páginas). In San Diego Supercomputer Center (SDSC) Research Data Services Materials Collection. UC San Diego Library Digital Collections. https://doi.org/10.6075/J0TM7BG5
+Esta obra está bajo licencia CC BY-NC-SA 4.0. Para ver una copia de esta licencia, visite https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-Kirkpatrick, C. R., Cragin, M. H., & Meyers, N. (2024) (Translators Hartley Belmar; Ricardo, Meyers, Natalie). Documento guía para el Plan de Gestión de Datos FAIR en Organizaciones e Instituciones. In San Diego Supercomputer Center (SDSC) Research Data Services Materials Collection. UC San Diego Library Digital Collections. https://doi.org/10.6075/J0ZC836W
-
-## Carta del director de Data Observatory
+## Palabras del Director Ejecutivo
 
 La colaboración entre diferentes instituciones se ha vuelto un pilar fundamental en el mundo actual para desarrollar proyectos que generen un impacto significativo a nivel nacional y que integren la sostenibilidad desde su concepción.
 
@@ -130,6 +127,8 @@ Junto con lo anterior, puede facilitar la integración y colaboración de las in
 
 - **Desarrollo de Recursos Educativos Abiertos:** Se implementará una estrategia que centralice guías, mejores prácticas, herramientas recomendadas y estudios de caso sobre la gestión de datos. Estos recursos fortalecerán el acceso a información vital para la implementación de los principios FAIR, promoviendo el intercambio de conocimiento y la estandarización de prácticas en la gestión de datos a nivel nacional.
 
+- **Reutilización Ética y Accesibilidad Segura**: Las Responsible AI Licenses (RAIL) son un conjunto de licencias diseñadas para promover el uso abierto de la inteligencia artificial, estableciendo restricciones que garantizan aplicaciones éticas y responsables, previniendo usos que puedan ser perjudiciales para la sociedad.
+
 ## 4. Stakeholders
 
 Los stakeholders son individuos, grupos u organizaciones que tienen un interés en el desarrollo, implementación y resultados de la Estrategia FAIR. **Su participación es crucial para asegurar el éxito del proyecto**, ya que aportan recursos, conocimiento y apoyo. En el ecosistema abierto de Chile, estos stakeholders incluyen entidades del sector público, privado y mixto, cuyos objetivos y actividades son de dominio público y contribuyen activamente al acceso, uso y reutilización de datos abiertos.
@@ -160,7 +159,7 @@ Los stakeholders son individuos, grupos u organizaciones que tienen un interés 
 - **Implementación**: Ejecución de proyectos y estrategias para la integración y uso de datos abiertos en diversos sectores.  
 - **Innovación**: Desarrollo de nuevas tecnologías, métodos y prácticas basadas en datos abiertos para mejorar procesos y soluciones en diferentes sectores.
 
-### Stakeholders Identificados (Alta prioridad)
+### Principales Stakeholders Identificados
 
 | Organizaciones | Clasificación según estrategia | Rol |
 | :---- | :---- | :---- |
@@ -177,6 +176,17 @@ Los stakeholders son individuos, grupos u organizaciones que tienen un interés 
 | Ministerio de Educación MinEduc | Público | Generación; Uso; Regulación |
 | Infraestructura Nacional de Acceso a la Información Científica INA | Público | Regulación |
 | Centro de Investigación para la Gestión Integrada de Riesgo de Desastres CIGIDEN | Mixto | Generación; Uso; Investigación |
+| Asociación Chilena de Empresas de Tecnologías de Información A.G. (ACTI) | Privado |  |
+| Sociedad de Fomento Fabril (SOFOFA) | Privado |  |
+| Centro de Ciencia del Clima y la Resiliencia \- CR2 | Mixto | Generación; Uso; Regulación |
+
+Adicionalmente, existen a nivel nacional, múltiples ejemplos de instituciones destacadas en publicación de datos:
+
+- Dirección Meteorológica de Chile  
+- Instituto para la Resiliencia ante Desastres (ITREND)  
+- Ministerio de Hacienda  
+- Ministerio de Medio Ambiente  
+- Ministerio Secretaría General de la Presidencia
 
 ## 5. Brechas
 
@@ -228,7 +238,7 @@ Una documentación inadecuada, metadatos incompletos y formatos de datos inconsi
 
 Algunas instituciones carecen de la infraestructura necesaria, recursos y experiencia técnica para implementar prácticas efectivas de gestión de datos según los principios FAIR. Esto abarca desafíos relacionados con el almacenamiento, la copia de seguridad, la curación y la preservación a largo plazo de los datos.
 
-## 6. Mitigaciones
+## 6. Componentes para reducir las brechas
 
 La implementación de los principios FAIR es un proceso integral que incluye diversos niveles: la cultura en la gestión de datos, la formación en los principios FAIR y los requerimientos tecnológicos para construir un ecosistema FAIR. Estos tres pilares, según la iniciativa GO FAIR, mitigan las brechas y necesidades nacionales y posibilitan la transición a un sistema de datos FAIR. Este capítulo desarrolla la importancia de la política FAIR y las capacitaciones en estos principios como puntos clave en la ruta hacia un sistema FAIR.
 
@@ -279,13 +289,13 @@ Aunque los cambios culturales inducidos por proyectos en las universidades, se h
 
 #### Crecimiento y proyección de una red de investigación a nivel nacional
 
-Bajo la creación de una red de investigación a nivel nacional, se recomienda la promoción y extensión del **Nodo Nacional de Acceso de la ANID**, y su conexión a redes globales de datos científicos, como la European Science Cloud. En Chile, se recomienda superar el aislamiento de los datos científicos almacenados en grandes silos, promoviendo una conexión nacional que, a través del Nodo Nacional de Acceso, facilite la integración de las bases de datos chilenas con redes globales, tanto para compartir como para recibir información.
+Bajo la creación de una red de investigación a nivel nacional, se recomienda la promoción y extensión del **Nodo Chile** (iniciativa liderada por ANID), y su conexión a redes globales de datos científicos, como la European Science Cloud. En Chile, se recomienda superar el aislamiento de los datos científicos almacenados en grandes silos, promoviendo una conexión nacional que, a través del Nodo Chile, facilite la integración de las bases de datos chilenas con redes globales, tanto para compartir como para recibir información.
 
 #### Fragmentación de datos y problemas de interoperabilidad
 
-Para enfrentar la fragmentación de datos y los problemas de interoperabilidad, se recomienda desarrollar **repositorios interoperables** con formatos y estándares que posibiliten el intercambio, localización, acceso y reutilización de los datos. Además, se recomienda revisar constantemente los **estándares de metadatos**, actualizando y manteniendo los metadatos en los repositorios del Nodo Nacional de Acceso compatibles para integrarse a los sistemas globales.
+Para enfrentar la fragmentación de datos y los problemas de interoperabilidad, se recomienda desarrollar **repositorios interoperables** con formatos y estándares que posibiliten el intercambio, localización, acceso y reutilización de los datos. Además, se recomienda revisar constantemente los **estándares de metadatos**, actualizando y manteniendo los metadatos en los repositorios del **Nodo Chile** compatibles para integrarse a los sistemas globales.
 
-Por lo anteriormente expuesto, se propone desarrollar modelos de datos estandarizados, así como ontologías y vocabularios controlados, que faciliten el intercambio e integración de datos FAIR entre diversas disciplinas y áreas de investigación.
+Por lo anteriormente expuesto, se propone desarrollar modelos de datos estandarizados, así como ontologías y vocabularios controlados, que faciliten el intercambio e integración de datos FAIR entre diversas disciplinas y áreas de investigación. 
 
 #### Calidad de datos y falta de documentación
 
@@ -325,6 +335,18 @@ La instalación de una oficina ayudaría así a establecer una comunidad FAIR en
 
 La oficina GO FAIR sería un apoyo sustancial para que en Chile se acelere la ciencia y la innovación, ahorre recursos en actividades de investigación y mejore el retorno de inversiones para los contribuyentes. Además, Chile podría ser la primera nación hispanohablante en tener una Oficina Nacional de Apoyo GO FAIR en todo el mundo y unirse a los países líderes en el movimiento FAIR.
 
+El paso previo desde el lanzamiento de esta Estrategia será la generación de mesas de trabajo multidisciplinarias para poder definir el plan de acción y seguimiento del mismo.
+
+## Divulgación
+
+La estrategia de divulgación para implementar los principios FAIR en Chile debe articularse en tres niveles complementarios: institucional, educativo y técnico-cultural. A nivel institucional, es fundamental posicionar la iniciativa FAIR como una política nacional oficial respaldada por ANID y el Ministerio de Ciencia, a través de canales formales de comunicación gubernamental, eventos interministeriales y campañas digitales que destaquen cómo esta transformación beneficiará al ecosistema de datos nacional y en especial, al científico chileno. Este esfuerzo debe incluir webinars informativos para tomadores de decisiones, documentos de posición estratégica y la promoción de casos de éxito nacional e internacional que evidencien el retorno de inversión para quienes participan.
+
+En el ámbito educativo, la divulgación se centrará en programas de capacitación diferenciados según el público objetivo: sesiones estratégicas para directivos de universidades, centros de investigación, sociedad civil y entidades gubernamentales, talleres prácticos para data stewards, y módulos formativos para investigadores y equipos técnicos. Estos programas serán difundidos a través de redes académicas existentes, plataformas educativas nacionales, alianzas con los proyectos InES de Ciencia Abierta, y difusión por parte de las entidades gubernamentales participantes, complementados con un repositorio centralizado de recursos educativos que incluya guías, infografías y videos tutoriales adaptados al contexto chileno, posicionando los beneficios concretos de los principios FAIR para cada segmento.
+
+El tercer nivel abordará el cambio técnico-cultural mediante una estrategia de comunicación que incluya comunidades de práctica, grupos de trabajo interdisciplinarios y eventos participativos que promuevan la colaboración entre diferentes sectores. Esto se complementará con la difusión de estándares técnicos, buenas prácticas y herramientas para la implementación de repositorios interoperables, destacando las ventajas de Chile como potencial primer país hispanohablante con una Oficina Nacional GO FAIR. La estrategia incluirá boletines periódicos, presencia en redes sociales especializadas y un programa de embajadores y data stewards FAIR que actúen como multiplicadores del conocimiento en sus respectivas instituciones, creando así un movimiento nacional hacia la transformación digital del ecosistema de datos nacional.
+
+La divulgación debe ser una actividad transversal que fomente una cultura de datos abiertos y promueva la colaboración entre instituciones, investigadores y la sociedad civil. En este sentido, se sugiere establecer alianzas estratégicas con
+
 ## 7. Casos de éxito FAIR en Chile
 
 Para iniciar esta sección, se enumeran algunas iniciativas de gobernanza a nivel nacional y local. Luego, se detallan casos de éxito específicos en Chile.
@@ -334,6 +356,10 @@ Para iniciar esta sección, se enumeran algunas iniciativas de gobernanza a nive
 - Política de acceso abierto a la información científica y a datos de investigación financiados con fondos públicos de la [\[6\]](https://s3.amazonaws.com/documentos.anid.cl/estudios/Politica\_acceso\_a\_informacion\_cientifica\_2022.pdf);
 - Plan de Gestión de Datos, Agencia Nacional de Investigación y Desarrollo ANID (2023) [\[15\]](https://www.cincel.cl/documentos/PGD\_20220506.pdf);  
 - Directrices de Metadatos y Mecanismos de Interoperabilidad; Agencia Nacional de Investigación y Desarrollo ANID & Comité Técnico Asesor de la Red de Apoyo a la Infraestructura Nacional de Acceso (INA) (2024) [\[16\]](https://acceso-abierto.anid.cl/wp-content/uploads/sites/4/2024/05/Metadatos\_para\_la\_Interoperabilidad\_de\_los\_Repositorios\_2024.pdf).
+
+### Iniciativas de gobernanza a nivel regional:
+
+- LA Referencia apoyo a las estrategias nacionales de Ciencia Abierta en América Latina y España (LA Referencia, s. f.)\[27\].
 
 ### Iniciativas de gobernanza a nivel local
 
@@ -356,11 +382,26 @@ El proyecto enfrenta varios desafíos, como la gobernanza de datos, que implica 
 
 Este esfuerzo se conecta estratégicamente con la apertura de una oficina de GO FAIR en Chile, una iniciativa global que promueve la implementación de los principios FAIR en la gestión de datos científicos. La oficina de GO FAIR en Chile ayudará a fortalecer la infraestructura de datos en el país, promoviendo mejores prácticas en la gestión de datos y facilitando la colaboración internacional.
 
-Construyendo las bases de la ciencia abierta en la Pontificia Universidad Católica de Chile
+### Construyendo las bases de la ciencia abierta en la Pontificia Universidad Católica de Chile
 
 En el año 2021 la Universidad Católica de Chile, se adjudicó la ejecución del proyecto "Construyendo las bases de la ciencia abierta en la Pontificia Universidad Católica de Chile”, financiado por ANID. Este proyecto tuvo por objetivo instalar y/o fortalecer capacidades en materia de gestión abierta de publicaciones y datos científicos en la UC. En concreto, se buscó desarrollar un ecosistema institucional de ciencia abierta, que consideraba los modelos de operación, la participación de las personas, la publicación de los productos de la investigación, la gestión de los datos y la instalación de una infraestructura tecnológica estandarizada, abierta, independiente e interoperable con servicios y aplicaciones de acuerdo a las políticas de acceso abierto de ANID y estándares internacionales. El proyecto abordó cuatro pilares: Gobernanza y políticas, Infraestructura y Servicios, Entrenamiento y Capacitación y Difusión y Redes. Entre los documentos generados, podemos mencionar: Lineamientos sobre las políticas de interoperabilidad entre sistemas y proyectos, Lineamientos para la difusión y formación continua en el ámbito de la Ciencia Abierta, Lineamientos para la aplicación de licencias Creative Commons a los resultados de investigación y finalmente los Lineamientos sobre Política de Preservación Digital de la UC [\[24\]](https://doi.org/10.7764/InESCA.UC.l06).
 
-## 8. Bibliografía
+## 8. Estrategia integrada para la implementación de FAIR
+
+Este capítulo presenta una estrategia operativa que transforma los componentes identificados en el documento en acciones concretas para alcanzar una política de datos FAIR robusta.
+
+1. **Gobernanza y Coordinación:**  
+   Se propone la creación de una Red Nacional de Implementación FAIR (GO FAIR) que integre al Ministerio de Ciencia, Tecnología, Conocimiento e Innovación, la Agencia Nacional de Investigación y Desarrollo (ANID), universidades, centros de investigación, empresas, startups de datos y representantes de la sociedad civil. Esta red facilitará la coordinación interinstitucional y la colaboración en la toma de decisiones estratégicas. Además, se establece la Oficina GO FAIR como eje central para articular y ejecutar la estrategia.  
+2. **Infraestructura y Estándares:**  
+   Desarrollar una infraestructura de datos que permita la interoperabilidad entre repositorios actuales, mediante la adopción de identificadores persistentes (DOI, ORCID, etc.) y metadatos estandarizados según los principios FAIR. Esto creará la base técnica para integrar los distintos componentes y asegurar un flujo de datos eficiente y accesible.  
+3. **Capacitación y Desarrollo de Capacidades:**  
+   Implementar un programa nacional de formación en ciencia abierta y datos FAIR, que ofrezca cursos y talleres sobre estándares, gestión de datos, interoperabilidad y ética de datos. Esta iniciativa fortalecerá las competencias digitales en universidades y organizaciones, impulsando la cultura de datos FAIR.  
+4. **Marco Normativo, Financiamiento y Evaluación:**  
+   Ajustar el marco regulatorio vigente, alineándolo con las leyes de protección de datos y demás normativas pertinentes. Establecer fondos concursables y promover alianzas público-privadas para garantizar la sostenibilidad de la infraestructura. Finalmente, diseñar un sistema de monitoreo y evaluación que permita medir el impacto y realizar ajustes dinámicos a la estrategia.
+
+Esta propuesta integral busca ensamblar los componentes identificados, generando el salto cualitativo necesario para la implementación exitosa de la política de datos FAIR en Chile.
+
+## 9. Bibliografía
 
 \[1\] M. D. Wilkinson *et al.*, "The FAIR Guiding Principles for scientific data management and stewardship”, *Sci. Data*, vol. 3, no 1, p. 160018, mar. 2016, doi: [10.1038/sdata.2016.18](https://www.nature.com/articles/sdata201618).
 
@@ -410,21 +451,10 @@ En el año 2021 la Universidad Católica de Chile, se adjudicó la ejecución de
 
 \[24\] Pontificia Universidad Católica de Chile. *Lineamientos para Política de Preservación digital de la UC*. Accedido el 6 de julio de 2024. doi: [10.7764/InESCA.UC.l06](https://doi.org/10.7764/InESCA.UC.l06).
 
-## Descripción general de utilizar la guía
+\[25\]   Ministerio de Ciencia, Tecnología, Conocimiento e Innovación, “Plan Nacional de Data Centers”. 2024\. Accedido: 03 de marzo de 2025\. \[En línea\]. Disponible en: [https://minciencia.gob.cl/uploads/filer\_public/95/6b/956b8c9f-d937-4b4d-8f6c-a871495a52ff/plan\_nacional\_de\_data\_centers\_pdata.pdf](https://minciencia.gob.cl/uploads/filer_public/95/6b/956b8c9f-d937-4b4d-8f6c-a871495a52ff/plan_nacional_de_data_centers_pdata.pdf)
 
-La presente guía se desarrolló por primera vez para la sesión del Instituto de Comunicación Académica Force 11 de 2020 sobre "Avance de la administración de datos FAIR: fomento de la planificación institucional y el desarrollo de servicios". Es una herramienta para planificar el cambio organizacional e institucional que conduce a la implementación de los principios FAIR para los bienes y servicios locales. Si bien la guía puede ser utilizada una vez por una sola persona o un equipo, está destinada a ser un "documento vivo" que se utiliza de forma iterativa y para la planificación continua de programas y el desarrollo de políticas. Los entornos locales cambian con la adopción de nuevas tecnologías, los cambios en la asignación de recursos y la modificación de los arreglos de personal. Las instituciones también emprenden nuevas direcciones estratégicas que traen oportunidades, y éstas deben ser tenidas en cuenta. Este documento se puede utilizar como herramienta durante el inicio de una revisión del campus o del servicio, o como parte de una evaluación a lo largo del camino.
+\[26\]   Agencia Nacional de Investigación y Desarrollo (ANID). (s. f.). InES Ciencia Abierta. Recuperado 3 de febrero de 2025, de [https://acceso-abierto.anid.cl/componentes/inescienciaabierta/](https://acceso-abierto.anid.cl/componentes/inescienciaabierta/)
 
-Varias secciones de esta guía abren el proceso para recopilar más información (o sintetizar las evaluaciones locales existentes) y considerar posibles objetivos dentro de la organización. A menudo, en el trabajo de educación superior y sin fines de lucro, lo que es posible se basa en la asignación de recursos existentes.
-
-La sección del plan de capacitación es una oportunidad para pensar de manera holística en formas de ofrecer el desarrollo de habilidades de administración de datos, y tal vez incluso nuevos enfoques para desarrollar una conciencia básica de los datos. A menudo, los enfoques para la difusión de información y la capacitación están vinculados a esfuerzos anteriores y exitosos en su propio entorno local; Y, el enfoque pedagógico y la "sintonización para la audiencia" se organizan mejor para satisfacer las necesidades específicas de su organización o institución.
-
-Ofrecemos un consejo para utilizar la hoja de trabajo de Prioridades y Lista de deseos (Sección 7): Mantenga la lista de elementos en 10 o menos. Este ejercicio está destinado a ayudar a enfocar el pensamiento y la planificación, de las muchas cosas que podría hacer, cuál podría ser la que más vale la pena hacer y por dónde empezar.
-
-Sección 8: "Crédito adicional" proporciona objetivos adicionales potenciales o aspiracionales de "alcance" para las instituciones más adelante en su viaje de administración de datos institucionales. (Los autores tienen la intención de coevolucionar esta guía con el ecosistema de datos de FAIR y agregarla a esta lista con el tiempo).
-
-Por último, si bien tratamos de orientar esto hacia la empresa de investigación global, reconocemos que parte de la terminología de esta guía está centrada en los Estados Unidos. Estamos dispuestos a agregar términos, así como opciones adicionales en la Sección 4: Evaluación Institucional. Agradecemos los comentarios sobre estos elementos y el uso general de esta guía.  
-Este trabajo fue apoyado en parte por los premios \#1916481 y 1937953 de la Fundación Nacional de Ciencias.
-
-Cita recomendada: Kirkpatrick, Christine R.; Cragin, Melissa H.; Meyers, Natalie. (2024). (traducción y adaptación, Carrasco, R.; Díaz, I.; Escapil-Inchauspé P.; Hartley R.; Keim, A.; Koebl M.; Meyers, N.; Quiroz, S.; Paredes, Á.; Rivera, M.; Roa, R.) *FAIR Data Stewardship Plan Template for Organizations and Institutions*. In *SDSC Research Data Services Materials Collection*. \[Documento guía para el Plan de Gestión de Datos FAIR para Organizaciones e Instituciones. En la Colección de Materiales de los Servicios de Datos de Investigación de SDSC\]. UC San Diego Library Digital Collections. (Original Work [https://doi.org/10.6075/J0CV4G8C](https://doi.org/10.6075/J0CV4G8C) published 2021).
+\[27\]   LA Referencia. (s. f.). LA Referencia. Recuperado 3 de febrero de 2025, de https://www.lareferencia.info/es/
 
 Licencia: [Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
