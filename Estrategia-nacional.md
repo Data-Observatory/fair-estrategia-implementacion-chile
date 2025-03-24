@@ -9,10 +9,12 @@ Segunda Edición: Marzo de 2025
 - Universidad Central
 - Universidad de los Andes
 
-**Autores** (por orden alfabético): Abedrapo, I.; Carrasco, R.; Catalán, A.; Díaz, I.; Escapil-Inchauspé, P.; Hartley Belmar, R.; Keim, A.; Koelbl, M.; Meyers, N.; Quiroz, S.; Paredes, Á.; Rivera, M.; Roa, R.
+**Autores** (por orden alfabético):\
+Abedrapo, I.; Carrasco, R.; Catalán, A.; Díaz, I.; Escapil-Inchauspé, P.; Hartley Belmar, R.; Keim, A.; Koelbl, M.; Meyers, N.; Quiroz, S.; Paredes, Á.; Rivera, M.; Roa, R.
 
-**Colaboradores y revisores**
-Kirkpatrick, Christine R.; Cragin, Melissa H.; Meyers, >Natalie.
+**Colaboradores y revisores**\
+Kirkpatrick, Christine R.; Cragin, Melissa H.; Meyers, Natalie.\
+Muñoz, Patricia; Bravo, Soledad; Roa, Verónica; Muñoz, Francisca.
 
 Este documento ha sido basado en la guía "FAIR Data Stewardship Plan Template for Organizations and Institutions", de la Colección de Materiales de los Servicios de Datos de Investigación de SDSC, UC San Diego Library Digital Collections (2021). https://doi.org/10.6075/J0CV4G8C
 
