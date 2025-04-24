@@ -178,8 +178,8 @@ Los stakeholders son individuos, grupos u organizaciones que tienen un interés 
 | Ministerio de Educación MinEduc | Público | Generación; Uso; Regulación |
 | Infraestructura Nacional de Acceso a la Información Científica INA | Público | Regulación |
 | Centro de Investigación para la Gestión Integrada de Riesgo de Desastres CIGIDEN | Mixto | Generación; Uso; Investigación |
-| Asociación Chilena de Empresas de Tecnologías de Información A.G. (ACTI) | Privado |  |
-| Sociedad de Fomento Fabril (SOFOFA) | Privado |  |
+| Asociación Chilena de Empresas de Tecnologías de Información A.G. (ACTI) | Privado | Generación; Uso; Implementación; Innovación |
+| Sociedad de Fomento Fabril (SOFOFA) | Privado | Generación; Uso; Implementación; Innovación |
 | Centro de Ciencia del Clima y la Resiliencia \- CR2 | Mixto | Generación; Uso; Regulación |
 
 Adicionalmente, existen a nivel nacional, múltiples ejemplos de instituciones destacadas en publicación de datos:
@@ -275,9 +275,9 @@ Por lo tanto, se recomienda dedicar fondos a la educación y formación FAIR. Co
 
 #### Financiamiento gubernamental e institucional para la investigación abierta
 
-Desde el año 2022, la Asociación Nacional de Investigación y Desarrollo (ANID) exige que todos los resultados de investigaciones financiadas con recursos públicos se publiquen en acceso abierto y la aplicación de los principios FAIR. Se recomienda el desarrollo continuo de una política de fondos públicos que promueva la aplicación de los principios FAIR en los procesos de investigación, tomando en cuenta los diferentes tipos de resultados científicos en todas las fases del proceso investigativo.
+Desde el año 2022, la Agencia Nacional de Investigación y Desarrollo (ANID) exige obligaciones de acceso abierto a proyectos que producen resultados científicos y que así lo indiquen sus bases. Se recomienda el desarrollo continuo de una política de fondos públicos que promueva la aplicación de los principios FAIR en los procesos de investigación, tomando en cuenta los diferentes tipos de resultados científicos en todas las fases del proceso investigativo.
 
-Asimismo, la política vigente debería alinearse más estrechamente con los principios de la ciencia abierta, incorporando plenamente los principios FAIR. Hasta ahora, la ANID ha publicado dos documentos clave: la "Política de acceso abierto a la información científica y a datos de investigación financiados con fondos públicos de la ANID” y las "Directrices de metadatos y mecanismos de Interoperabilidad” (Agencia Nacional de Investigación y Desarrollo (ANID), 2022; Agencia Nacional de Investigación y Desarrollo (ANID), 2024). Aunque estos documentos abordan aspectos importantes como el acceso abierto y la interoperabilidad, no incluyen referencias explícitas a otros principios de los datos FAIR, como la reutilización o la localización de los datos.
+Asimismo, la política vigente se alinea con los principios de la ciencia abierta, incorporando los principios FAIR. Hasta ahora, la ANID ha publicado dos documentos clave: la "Política de acceso abierto a la información científica y a datos de investigación financiados con fondos públicos de la ANID” y las "Directrices de metadatos y mecanismos de Interoperabilidad” (Agencia Nacional de Investigación y Desarrollo (ANID), 2022; Agencia Nacional de Investigación y Desarrollo (ANID), 2024). Aunque estos documentos abordan aspectos importantes como el acceso abierto y la interoperabilidad, no incluyen referencias explícitas a otros principios de los datos FAIR, como la reutilización o la localización de los datos.
 
 Además, la entidad Data Observatory promueve el desarrollo de datos abiertos en Chile, para "maximizar el beneficio de los que se puede obtener de los datos para la ciencia, la investigación y el desarrollo productivo, a través de la creación, administración y enriquecimiento de plataformas de datos abiertos \[…\]”. (*Data Observatory*, s. f.) Se recomienda incluir otras instituciones y actores interesados que tengan una amplia experiencia como el Data Observatory en el desarrollo de una normativa.
 
@@ -372,7 +372,7 @@ Para iniciar esta sección, se enumeran algunas iniciativas de gobernanza a nive
 - Política Institucional de Ciencia Abierta de la Universidad Católica de la Santísima Concepción (2023) [\[21\]](https://cienciaabierta.ucsc.cl/wp-content/uploads/sites/157/2023/08/D.R.\_108\_2023\_PROMULGA\_ACUERDO\_DEL\_HCS\_QUE\_APRUEBA\_POLITICA\_DE\_CIENCIA\_ABIERTA\_DE\_LA\_UCSC-2.pdf);
 - Política de Ciencia Abierta de la Universidad del Desarrollo (2023) [\[22\]](https://www.udd.cl/wp-content/uploads/2022/08/dr-nro144-23-politica-ciencia-abierta-udd-timbrado.pdf).
 
-### Evaluación de repositorios nacionales y plan de gestión de datos (APA)
+### Evaluación de repositorios nacionales y plan de gestión de datos
 
 El proyecto InES Ciencia Abierta de la Universidad Central de Chile, financiado por ANID generó una serie de documentos que permiten sentar las bases para el inicio de la gestión de datos abiertos de investigación. En primer lugar, se promulgó una Política de Ciencia Abierta que establece los ámbitos de acción, promoción y apoyo a la comunidad para comenzar a reconocer e integrar prácticas de ciencia abierta, incluido el fomento de los principios FAIR para los datos de investigación. La política establece que es necesario completar un plan de gestión de datos para toda investigación realizada en la universidad, así como depositar los datos de investigación en el nuevo Repositorio Institucional. Además, se hizo pública la Declaración de interoperabilidad de metadatos del Repositorio Institucional de la universidad, para permitir que otros repositorios puedan extraer datos, una práctica poco habitual según el estudio realizado por Hartley y Abedrapo [\[23\]](https://doi.org/10.5281/ZENODO.10557407).
 
