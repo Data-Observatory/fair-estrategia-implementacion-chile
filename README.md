@@ -19,3 +19,31 @@ Los autores, que contribuyeron con la traducción y adaptación del texto son (e
 - Álvaro Paredes Lizama
 - Marcela Rivera Cornejo
 - Rodrigo Roa López de Heredia
+
+[Versión en español](Estrategia-nacional.es.md)
+[Versión en inglés](Estrategia-nacional.en.md)
+
+---
+
+## Strategy Proposal for the Implementation of a FAIR Data Policy in Chile
+
+Repository hosting the "Strategy for the Implementation of a FAIR Data Policy in Chile" in plain text format, to facilitate its access and analysis.
+
+The authors who contributed to the translation and adaptation of the text are (in alphabetical order by surname):
+
+- Isabel Abedrapo Rosen
+- Rodrigo Carrasco
+- Axcel Catalán Zavala
+- Ingrid Díaz Cornejo
+- Paul Escapil-Inchauspé
+- Ricardo Hartley Belmar
+- Ana Keim Cortez
+- Max Koelbl Fischer
+- Natalie Meyers
+- Soledad Quiroz Valenzuela
+- Álvaro Paredes Lizama
+- Marcela Rivera Cornejo
+- Rodrigo Roa López de Heredia
+
+[Spanish version](Estrategia-nacional.es.md)
+[English version](Estrategia-nacional.en.md)

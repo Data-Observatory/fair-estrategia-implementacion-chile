@@ -16,9 +16,9 @@ Abedrapo, I.; Carrasco, R.; Catalán, A.; Díaz, I.; Escapil-Inchauspé, P.; Har
 Kirkpatrick, Christine R.; Cragin, Melissa H.; Meyers, Natalie.\
 Muñoz, Patricia; Bravo, Soledad; Roa, Verónica; Muñoz, Francisca.
 
-Este documento ha sido basado en la guía "FAIR Data Stewardship Plan Template for Organizations and Institutions", de la Colección de Materiales de los Servicios de Datos de Investigación de SDSC, UC San Diego Library Digital Collections (2021). https://doi.org/10.6075/J0CV4G8C
+Este documento ha sido basado en la guía "FAIR Data Stewardship Plan Template for Organizations and Institutions", de la Colección de Materiales de los Servicios de Datos de Investigación de SDSC, UC San Diego Library Digital Collections (2021). [https://doi.org/10.6075/J0CV4G8C](https://doi.org/10.6075/J0CV4G8C)
 
-Esta obra está bajo licencia CC BY-NC-SA 4.0. Para ver una copia de esta licencia, visite https://creativecommons.org/licenses/by-nc-sa/4.0/
+Esta obra está bajo licencia CC BY-NC-SA 4.0. Para ver una copia de esta licencia, visite [creativecommons.org/licenses/by-nc-sa/4.0](http://creativecommons.org/licenses/by-nc-sa/4.0)
 
 ## Palabras del Director Ejecutivo
 
@@ -38,9 +38,9 @@ Data Observatory
 
 ## 1. Introducción
 
-En la era digital actual, los datos desempeñan un papel fundamental en prácticamente todos los aspectos de la sociedad y la economía. En este contexto, l**a gestión efectiva de los datos se ha convertido en una necesidad** para garantizar la transparencia, la eficiencia y la innovación en diversos sectores.
+En la era digital actual, los datos desempeñan un papel fundamental en prácticamente todos los aspectos de la sociedad y la economía. En este contexto, **la gestión efectiva de los datos se ha convertido en una necesidad** para garantizar la transparencia, la eficiencia y la innovación en diversos sectores.
 
-En el año 2016, se publicó en la revista Scientific Data el documento titulado "*The FAIR Guiding Principles for scientific data management and stewardship”* [\[1\]](https://www.nature.com/articles/sdata201618). El objetivo de este documento fue proporcionar pautas para asegurar la encontrabilidad (Findability), accesibilidad (Accessibility), interoperabilidad, (Interoperability) y reutilización (Reusability) de los objetos digitales. Los principios FAIR enfatizan la capacidad de acción de las máquinas, es decir, la capacidad de los sistemas computacionales para encontrar, acceder, interoperar y reutilizar datos con ninguna o mínima intervención humana.
+En el año 2016, se publicó en la revista Scientific Data el documento titulado *"The FAIR Guiding Principles for scientific data management and stewardship”* [\[1\]](https://www.nature.com/articles/sdata201618). El objetivo de este documento fue proporcionar pautas para asegurar la encontrabilidad (Findability), accesibilidad (Accessibility), interoperabilidad, (Interoperability) y reutilización (Reusability) de los objetos digitales. Los principios FAIR enfatizan la capacidad de acción de las máquinas, es decir, la capacidad de los sistemas computacionales para encontrar, acceder, interoperar y reutilizar datos con ninguna o mínima intervención humana.
 
 En un mundo cada vez más data-céntrico [\[2\]](https://doi.org/10.1016/j.ces.2021.117271) e impulsado por grandes volúmenes de datos, **estos principios son fundamentales** para maximizar el valor y el impacto de la información generada en diversas áreas.
 
@@ -198,13 +198,13 @@ En la labor diaria de los investigadores se evidencia la necesidad de avanzar en
 
 Instalar un modelo que transite hacia los Datos Abiertos no es fácil; sin embargo, hoy en día resulta cada vez más necesario. Los investigadores al publicar sus datos, además de fortalecer su investigación, podrán contribuir al desarrollo del país, y como resultado se promoverá un desarrollo más equitativo y sostenible para toda la sociedad.
 
-"El giro hacia la Ciencia Abierta es, como todos los cambios culturales de gran escala, un proceso complejo que \-para alcanzar justificados beneficios- no puede dejar de hacerse cargo de las tensiones, resistencias y ajustes ecosistémicos en nuestra institución. Por eso, el cambio tiene que ser gradual y progresivo, con participación de los distintos estamentos involucrados y con una mirada transversal que permita ir anticipando los desafíos que vayan surgiendo en su implementación” (Bouchón, 2023).
+"El giro hacia la Ciencia Abierta es, como todos los cambios culturales de gran escala, un proceso complejo que \-para alcanzar justificados beneficios- no puede dejar de hacerse cargo de las tensiones, resistencias y ajustes ecosistémicos en nuestra institución. Por eso, el cambio tiene que ser gradual y progresivo, con participación de los distintos estamentos involucrados y con una mirada transversal que permita ir anticipando los desafíos que vayan surgiendo en su implementación” ([Bouchón, 2023](https://cienciaabierta.uc.cl/testimonios/vicerrector-de-investigacion/)).
 
 ### Reconocimientos e Incentivos
 
-*Reconocimiento académico*: Se valora y reconoce la investigación abierta en los procesos de evaluación académica, como las promociones y los ascensos. Esto puede incluir la consideración de prácticas de investigación abierta en la evaluación de la calidad y el impacto de la investigación, así como en la evaluación de la contribución del investigador a la comunidad científica.
+**Reconocimiento académico**: Se valora y reconoce la investigación abierta en los procesos de evaluación académica, como las promociones y los ascensos. Esto puede incluir la consideración de prácticas de investigación abierta en la evaluación de la calidad y el impacto de la investigación, así como en la evaluación de la contribución del investigador a la comunidad científica.
 
-*Métricas tradicionales versus Métricas de calidad:* Actualmente, los investigadores deben demostrar el impacto de su investigación, que generalmente se mide a través de las métricas tradicionales como el factor de impacto. Para transitar de manera exitosa al modelo de datos abiertos, se requiere complementar incorporando nuevos criterios de evaluación académica. Migrar la evaluación de la ciencia desde el factor de impacto hacia la calidad de la investigación es esencial para promover un sistema más justo y riguroso.
+**Métricas tradicionales versus Métricas de calidad**: Actualmente, los investigadores deben demostrar el impacto de su investigación, que generalmente se mide a través de las métricas tradicionales como el factor de impacto. Para transitar de manera exitosa al modelo de datos abiertos, se requiere complementar incorporando nuevos criterios de evaluación académica. Migrar la evaluación de la ciencia desde el factor de impacto hacia la calidad de la investigación es esencial para promover un sistema más justo y riguroso.
 
 La evaluación debería enfocarse en la calidad intrínseca de la investigación, en lugar de depender exclusivamente  de métricas cuantitativas como el factor de impacto de una revista, considerando aspectos como la originalidad, relevancia, rigor metodológico, transparencia y el impacto real en la comunidad científica y la sociedad. Este enfoque más holístico no solo reconoce la diversidad de la investigación científica, sino que también fomenta una cultura académica más inclusiva, colaborativa y orientada hacia el avance del conocimiento.
 
@@ -222,7 +222,7 @@ Se requieren programas de capacitación y apoyo para investigadores que desean a
 
 #### Fragmentación de datos
 
-En la actualidad, los datos en laboratorios e instituciones suelen estar dispersos en diversas plataformas, repositorios genéricos o temáticos. Algunas disciplinas carecen de repositorios específicos, y los datos se presentan en distintos formatos, lo que complica su localización, acceso, reproducibilidad, reutilización e interoperabilidad. Los metadatos no estandarizados y la organización inconsistente de los datos obstaculizan el descubrimiento y reutilización efectiva de éstos. 
+En la actualidad, los datos en laboratorios e instituciones suelen estar dispersos en diversas plataformas, repositorios genéricos o temáticos. Algunas disciplinas carecen de repositorios específicos, y los datos se presentan en distintos formatos, lo que complica su localización, acceso, reproducibilidad, reutilización e interoperabilidad. Los metadatos no estandarizados y la organización inconsistente de los datos obstaculizan el descubrimiento y reutilización efectiva de éstos.
 
 #### Problemas de interoperabilidad
 
@@ -277,7 +277,7 @@ Por lo tanto, se recomienda dedicar fondos a la educación y formación FAIR. Co
 
 Desde el año 2022, la Agencia Nacional de Investigación y Desarrollo (ANID) exige obligaciones de acceso abierto a proyectos que producen resultados científicos y que así lo indiquen sus bases. Se recomienda el desarrollo continuo de una política de fondos públicos que promueva la aplicación de los principios FAIR en los procesos de investigación, tomando en cuenta los diferentes tipos de resultados científicos en todas las fases del proceso investigativo.
 
-Asimismo, la política vigente se alinea con los principios de la ciencia abierta, incorporando los principios FAIR. Hasta ahora, la ANID ha publicado dos documentos clave: la "Política de acceso abierto a la información científica y a datos de investigación financiados con fondos públicos de la ANID” y las "Directrices de metadatos y mecanismos de Interoperabilidad” (Agencia Nacional de Investigación y Desarrollo (ANID), 2022; Agencia Nacional de Investigación y Desarrollo (ANID), 2024). Aunque estos documentos abordan aspectos importantes como el acceso abierto y la interoperabilidad, no incluyen referencias explícitas a otros principios de los datos FAIR, como la reutilización o la localización de los datos.
+Asimismo, la política vigente se alinea con los principios de la ciencia abierta, incorporando los principios FAIR. Hasta ahora, la ANID ha publicado dos documentos clave: la *"Política de acceso abierto a la información científica y a datos de investigación financiados con fondos públicos de la ANID”* y las *"Directrices de metadatos y mecanismos de Interoperabilidad”* (Agencia Nacional de Investigación y Desarrollo (ANID), 2022; Agencia Nacional de Investigación y Desarrollo (ANID), 2024). Aunque estos documentos abordan aspectos importantes como el acceso abierto y la interoperabilidad, no incluyen referencias explícitas a otros principios de los datos FAIR, como la reutilización o la localización de los datos.
 
 Además, la entidad Data Observatory promueve el desarrollo de datos abiertos en Chile, para "maximizar el beneficio de los que se puede obtener de los datos para la ciencia, la investigación y el desarrollo productivo, a través de la creación, administración y enriquecimiento de plataformas de datos abiertos \[…\]”. (*Data Observatory*, s. f.) Se recomienda incluir otras instituciones y actores interesados que tengan una amplia experiencia como el Data Observatory en el desarrollo de una normativa.
 
@@ -285,7 +285,7 @@ Además, la entidad Data Observatory promueve el desarrollo de datos abiertos en
 
 Es fundamental, incluir "a todas las partes interesadas relevantes en todos los niveles” del sector académico dentro de este proceso (*GO FAIR Initiative*, s. f.).
 
-Desde 2022, varias universidades chilenas están implementado culturas de ciencia abierta a través de proyectos **InES Ciencia Abierta**, financiados por la ANID. En estos proyectos, el cambio de cultura se efectúa a través de capacitaciones internas, la instalación de repositorios para publicaciones y datos, el cambio de la política de las universidades respecto a la ciencia abierta, y la creación de redes nacionales e internacionales. Varios proyectos InES lograron establecer propuestas para una política de ciencia abierta, sin embargo, estas carecen de carácter obligatorio. Se recomienda fortalecer y dar continuidad a estos esfuerzos en las universidades, ya que el apoyo de los fondos ANID termina con el cierre del proyecto. Con frecuencia, las unidades responsables de los proyectos InES no reciben respaldo adicional por parte de sus universidades, limitando su capacidad para promover la cultura académica más allá del alcance inicial del proyecto..
+Desde 2022, varias universidades chilenas están implementado culturas de ciencia abierta a través de proyectos **InES Ciencia Abierta**, financiados por la ANID. En estos proyectos, el cambio de cultura se efectúa a través de capacitaciones internas, la instalación de repositorios para publicaciones y datos, el cambio de la política de las universidades respecto a la ciencia abierta, y la creación de redes nacionales e internacionales. Varios proyectos InES lograron establecer propuestas para una política de ciencia abierta, sin embargo, estas carecen de carácter obligatorio. Se recomienda fortalecer y dar continuidad a estos esfuerzos en las universidades, ya que el apoyo de los fondos ANID termina con el cierre del proyecto. Con frecuencia, las unidades responsables de los proyectos InES no reciben respaldo adicional por parte de sus universidades, limitando su capacidad para promover la cultura académica más allá del alcance inicial del proyecto.
 
 Aunque los cambios culturales inducidos por proyectos en las universidades, se han generado principalmente desde iniciativas ascendentes, se recomienda complementarlos e incentivar transformaciones descendentes. La **Comisión Nacional de Acreditación (CNA)** de Chile evalúa y acredita la calidad de las Instituciones de la educación superior de Chile que están bajo la responsabilidad del Ministerio de Educación. Se recomienda incluir los principios FAIR en los criterios e indicadores de la CNA. La ventaja de esta inclusión sería un reconocimiento de los principios FAIR en las políticas universitarias respecto a los datos, los tratamientos de los datos y la investigación. Además, las universidades podrían ser incentivadas a adherirse a la cultura de ciencia abierta.
 
@@ -297,13 +297,13 @@ Bajo la creación de una red de investigación a nivel nacional, se recomienda l
 
 Para enfrentar la fragmentación de datos y los problemas de interoperabilidad, se recomienda desarrollar **repositorios interoperables** con formatos y estándares que posibiliten el intercambio, localización, acceso y reutilización de los datos. Además, se recomienda revisar constantemente los **estándares de metadatos**, actualizando y manteniendo los metadatos en los repositorios del **Nodo Chile** compatibles para integrarse a los sistemas globales.
 
-Por lo anteriormente expuesto, se propone desarrollar modelos de datos estandarizados, así como ontologías y vocabularios controlados, que faciliten el intercambio e integración de datos FAIR entre diversas disciplinas y áreas de investigación. 
+Por lo anteriormente expuesto, se propone desarrollar modelos de datos estandarizados, así como ontologías y vocabularios controlados, que faciliten el intercambio e integración de datos FAIR entre diversas disciplinas y áreas de investigación.
 
 #### Calidad de datos y falta de documentación
 
 La baja calidad y la falta de metadatos o documentación de datos sigue siendo un problema en Chile. Esto refleja la ausencia de políticas sólidas de datos en organizaciones públicas y privadas, tal como la falta de una **política nacional de gobernanza de datos**. Se recomienda establecer normativas claras sobre la gobernanza de datos y seguridad de datos a nivel nacional que respalden las políticas institucionales y garanticen un manejo adecuado y una mejora en la calidad de los datos..
 
-Con el respaldo de leyes y directrices a nivel nacional se facilita la promoción e implementación de políticas institucionales en el sector público y privado, incluyendo la financiación de puestos clave, como responsables de gobernanza de datos, curadores/as de datos y otros especialistas. Grandes entidades públicas, como las universidades, que manejan una gran cantidad de datos, algunos de ellos sensibles, necesitan contar con una política de datos bien definida, además de profesionales dedicados que garanticen su implementación efectiva..
+Con el respaldo de leyes y directrices a nivel nacional se facilita la promoción e implementación de políticas institucionales en el sector público y privado, incluyendo la financiación de puestos clave, como responsables de gobernanza de datos, curadores/as de datos y otros especialistas. Grandes entidades públicas, como las universidades, que manejan una gran cantidad de datos, algunos de ellos sensibles, necesitan contar con una política de datos bien definida, además de profesionales dedicados que garanticen su implementación efectiva.
 
 #### Accesibilidad limitada
 
@@ -339,7 +339,7 @@ La oficina GO FAIR sería un apoyo sustancial para que en Chile se acelere la ci
 
 El paso previo desde el lanzamiento de esta Estrategia será la generación de mesas de trabajo multidisciplinarias para poder definir el plan de acción y seguimiento del mismo.
 
-## Divulgación
+### Divulgación
 
 La estrategia de divulgación para implementar los principios FAIR en Chile debe articularse en tres niveles complementarios: institucional, educativo y técnico-cultural. A nivel institucional, es fundamental posicionar la iniciativa FAIR como una política nacional oficial respaldada por ANID y el Ministerio de Ciencia, a través de canales formales de comunicación gubernamental, eventos interministeriales y campañas digitales que destaquen cómo esta transformación beneficiará al ecosistema de datos nacional y en especial, al científico chileno. Este esfuerzo debe incluir webinars informativos para tomadores de decisiones, documentos de posición estratégica y la promoción de casos de éxito nacional e internacional que evidencien el retorno de inversión para quienes participan.
 
@@ -359,9 +359,9 @@ Para iniciar esta sección, se enumeran algunas iniciativas de gobernanza a nive
 - Plan de Gestión de Datos, Agencia Nacional de Investigación y Desarrollo ANID (2023) [\[15\]](https://www.cincel.cl/documentos/PGD\_20220506.pdf);  
 - Directrices de Metadatos y Mecanismos de Interoperabilidad; Agencia Nacional de Investigación y Desarrollo ANID & Comité Técnico Asesor de la Red de Apoyo a la Infraestructura Nacional de Acceso (INA) (2024) [\[16\]](https://acceso-abierto.anid.cl/wp-content/uploads/sites/4/2024/05/Metadatos\_para\_la\_Interoperabilidad\_de\_los\_Repositorios\_2024.pdf).
 
-### Iniciativas de gobernanza a nivel regional:
+### Iniciativas de gobernanza a nivel regional
 
-- LA Referencia apoyo a las estrategias nacionales de Ciencia Abierta en América Latina y España (LA Referencia, s. f.)\[27\].
+- LA Referencia apoyo a las estrategias nacionales de Ciencia Abierta en América Latina y España (LA Referencia, s. f.) [\[27\]](https://www.lareferencia.info/es/).
 
 ### Iniciativas de gobernanza a nivel local
 
@@ -374,7 +374,9 @@ Para iniciar esta sección, se enumeran algunas iniciativas de gobernanza a nive
 
 ### Evaluación de repositorios nacionales y plan de gestión de datos
 
-El proyecto InES Ciencia Abierta de la Universidad Central de Chile, financiado por ANID generó una serie de documentos que permiten sentar las bases para el inicio de la gestión de datos abiertos de investigación. En primer lugar, se promulgó una Política de Ciencia Abierta que establece los ámbitos de acción, promoción y apoyo a la comunidad para comenzar a reconocer e integrar prácticas de ciencia abierta, incluido el fomento de los principios FAIR para los datos de investigación. La política establece que es necesario completar un plan de gestión de datos para toda investigación realizada en la universidad, así como depositar los datos de investigación en el nuevo Repositorio Institucional. Además, se hizo pública la Declaración de interoperabilidad de metadatos del Repositorio Institucional de la universidad, para permitir que otros repositorios puedan extraer datos, una práctica poco habitual según el estudio realizado por Hartley y Abedrapo [\[23\]](https://doi.org/10.5281/ZENODO.10557407).
+El proyecto InES Ciencia Abierta de la Universidad Central de Chile, financiado por ANID generó una serie de documentos que permiten sentar las bases para el inicio de la gestión de datos abiertos de investigación. En primer lugar, se promulgó una Política de Ciencia Abierta que establece los ámbitos de acción, promoción y apoyo a la comunidad para comenzar a reconocer e integrar prácticas de ciencia abierta, incluido el fomento de los principios FAIR para los datos de investigación. La política establece que es necesario completar un plan de gestión de datos para toda investigación realizada en la universidad, así como depositar los datos de investigación en el nuevo Repositorio Institucional. 
+
+Además, se hizo pública la Declaración de interoperabilidad de metadatos del Repositorio Institucional de la universidad, para permitir que otros repositorios puedan extraer datos, una práctica poco habitual según el estudio realizado por Hartley y Abedrapo [\[23\]](https://doi.org/10.5281/ZENODO.10557407).
 
 ### Disponibilización de datos científicos de estaciones de investigación
 
@@ -386,20 +388,33 @@ Este esfuerzo se conecta estratégicamente con la apertura de una oficina de GO 
 
 ### Construyendo las bases de la ciencia abierta en la Pontificia Universidad Católica de Chile
 
-En el año 2021 la Universidad Católica de Chile, se adjudicó la ejecución del proyecto "Construyendo las bases de la ciencia abierta en la Pontificia Universidad Católica de Chile”, financiado por ANID. Este proyecto tuvo por objetivo instalar y/o fortalecer capacidades en materia de gestión abierta de publicaciones y datos científicos en la UC. En concreto, se buscó desarrollar un ecosistema institucional de ciencia abierta, que consideraba los modelos de operación, la participación de las personas, la publicación de los productos de la investigación, la gestión de los datos y la instalación de una infraestructura tecnológica estandarizada, abierta, independiente e interoperable con servicios y aplicaciones de acuerdo a las políticas de acceso abierto de ANID y estándares internacionales. El proyecto abordó cuatro pilares: Gobernanza y políticas, Infraestructura y Servicios, Entrenamiento y Capacitación y Difusión y Redes. Entre los documentos generados, podemos mencionar: Lineamientos sobre las políticas de interoperabilidad entre sistemas y proyectos, Lineamientos para la difusión y formación continua en el ámbito de la Ciencia Abierta, Lineamientos para la aplicación de licencias Creative Commons a los resultados de investigación y finalmente los Lineamientos sobre Política de Preservación Digital de la UC [\[24\]](https://doi.org/10.7764/InESCA.UC.l06).
+En el año 2021 la Universidad Católica de Chile, se adjudicó la ejecución del proyecto *"Construyendo las bases de la ciencia abierta en la Pontificia Universidad Católica de Chile”*, financiado por ANID. Este proyecto tuvo por objetivo instalar y/o fortalecer capacidades en materia de gestión abierta de publicaciones y datos científicos en la UC. En concreto, se buscó desarrollar un ecosistema institucional de ciencia abierta, que consideraba los modelos de operación, la participación de las personas, la publicación de los productos de la investigación, la gestión de los datos y la instalación de una infraestructura tecnológica estandarizada, abierta, independiente e interoperable con servicios y aplicaciones de acuerdo a las políticas de acceso abierto de ANID y estándares internacionales.
+
+El proyecto abordó cuatro pilares: Gobernanza y políticas, Infraestructura y Servicios, Entrenamiento y Capacitación y Difusión y Redes. Entre los documentos generados, podemos mencionar:
+
+- Lineamientos sobre las políticas de interoperabilidad entre sistemas y proyectos,
+- Lineamientos para la difusión y formación continua en el ámbito de la Ciencia Abierta,
+- Lineamientos para la aplicación de licencias Creative Commons a los resultados de investigación y finalmente los Lineamientos sobre Política de Preservación Digital de la UC [\[24\]](https://doi.org/10.7764/InESCA.UC.l06).
 
 ## 8. Estrategia integrada para la implementación de FAIR
 
 Este capítulo presenta una estrategia operativa que transforma los componentes identificados en el documento en acciones concretas para alcanzar una política de datos FAIR robusta.
 
-1. **Gobernanza y Coordinación:**  
-   Se propone la creación de una Red Nacional de Implementación FAIR (GO FAIR) que integre al Ministerio de Ciencia, Tecnología, Conocimiento e Innovación, la Agencia Nacional de Investigación y Desarrollo (ANID), universidades, centros de investigación, empresas, startups de datos y representantes de la sociedad civil. Esta red facilitará la coordinación interinstitucional y la colaboración en la toma de decisiones estratégicas. Además, se establece la Oficina GO FAIR como eje central para articular y ejecutar la estrategia.  
-2. **Infraestructura y Estándares:**  
-   Desarrollar una infraestructura de datos que permita la interoperabilidad entre repositorios actuales, mediante la adopción de identificadores persistentes (DOI, ORCID, etc.) y metadatos estandarizados según los principios FAIR. Esto creará la base técnica para integrar los distintos componentes y asegurar un flujo de datos eficiente y accesible.  
-3. **Capacitación y Desarrollo de Capacidades:**  
-   Implementar un programa nacional de formación en ciencia abierta y datos FAIR, que ofrezca cursos y talleres sobre estándares, gestión de datos, interoperabilidad y ética de datos. Esta iniciativa fortalecerá las competencias digitales en universidades y organizaciones, impulsando la cultura de datos FAIR.  
-4. **Marco Normativo, Financiamiento y Evaluación:**  
-   Ajustar el marco regulatorio vigente, alineándolo con las leyes de protección de datos y demás normativas pertinentes. Establecer fondos concursables y promover alianzas público-privadas para garantizar la sostenibilidad de la infraestructura. Finalmente, diseñar un sistema de monitoreo y evaluación que permita medir el impacto y realizar ajustes dinámicos a la estrategia.
+### Gobernanza y Coordinación
+
+Se propone la creación de una Red Nacional de Implementación FAIR (GO FAIR) que integre al Ministerio de Ciencia, Tecnología, Conocimiento e Innovación, la Agencia Nacional de Investigación y Desarrollo (ANID), universidades, centros de investigación, empresas, startups de datos y representantes de la sociedad civil. Esta red facilitará la coordinación interinstitucional y la colaboración en la toma de decisiones estratégicas. Además, se establece la Oficina GO FAIR como eje central para articular y ejecutar la estrategia.  
+
+### Infraestructura y Estándares
+
+Desarrollar una infraestructura de datos que permita la interoperabilidad entre repositorios actuales, mediante la adopción de identificadores persistentes (DOI, ORCID, etc.) y metadatos estandarizados según los principios FAIR. Esto creará la base técnica para integrar los distintos componentes y asegurar un flujo de datos eficiente y accesible.  
+
+### Capacitación y Desarrollo de Capacidades
+
+Implementar un programa nacional de formación en ciencia abierta y datos FAIR, que ofrezca cursos y talleres sobre estándares, gestión de datos, interoperabilidad y ética de datos. Esta iniciativa fortalecerá las competencias digitales en universidades y organizaciones, impulsando la cultura de datos FAIR.  
+
+### Marco Normativo, Financiamiento y Evaluación
+
+Ajustar el marco regulatorio vigente, alineándolo con las leyes de protección de datos y demás normativas pertinentes. Establecer fondos concursables y promover alianzas público-privadas para garantizar la sostenibilidad de la infraestructura. Finalmente, diseñar un sistema de monitoreo y evaluación que permita medir el impacto y realizar ajustes dinámicos a la estrategia.
 
 Esta propuesta integral busca ensamblar los componentes identificados, generando el salto cualitativo necesario para la implementación exitosa de la política de datos FAIR en Chile.
 
